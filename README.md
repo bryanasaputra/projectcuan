@@ -1,3 +1,3 @@
 #Project Cuan
 
-Project ini dibuat untuk menghasilakn cuan
+Project ini dibuat untuk menghasilkan cuan
